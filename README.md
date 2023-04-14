@@ -1,9 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @saradsa
-- 👀 I’m looking to collaborate on an FPL data analysis website..
-- 🌱 I’m currently working on a blog project..
-- 💞️ I’m looking to for help with Data Science and Statistics.
-- 📫 Ask me about databases and SQL.                
+- 🌱 I’m currently working on a e-commerce website..            
 
 
 ## 🌐 Socials:
